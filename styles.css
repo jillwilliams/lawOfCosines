@@ -133,6 +133,25 @@ ul {
     font-family: "Amatic SC", cursive;
     font-size: 1.8rem;
 }
+#pic1, #pic3 {
+    width: 20%;
+    height: auto;
+    margin: 15px 40%;
+    border: 2px lime solid;
+    outline: 1px black solid;
+}
+#pic2, #pic4 {
+    width: 50%;
+    height: auto;
+    margin: 15px 25%;
+    border: 2px lime solid;
+    outline: 1px black solid;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px lime solid;
+    outline: 1px black solid;
+}
 footer {
     font-size: 1.3rem;
     text-align: center;
